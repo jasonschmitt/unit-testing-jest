@@ -1,0 +1,23 @@
+{
+  "name": "unit-testing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonschmitt/unit-testing-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonschmitt/unit-testing-jest/issues"
+  },
+  "homepage": "https://github.com/jasonschmitt/unit-testing-jest#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
